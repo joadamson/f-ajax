@@ -188,7 +188,7 @@ function photosTemplate({title, url}){
         <div class="col-lg-3 mt-3">
             <div class="card rounded-3">
                 <img class="card-img rounded-top" src="${url}">
-                <div class="text-center m-3">${title}</div>
+                <div class="text-center m-5">${title}</div>
             </div>
         </div>
     `
